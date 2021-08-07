@@ -11,7 +11,7 @@ Requirements:
 - Clicking on the logo should take the users to the landing page
 
 
-Test Cases:
+CheckList:
 
 Buttons
 - Check all buttons, radio buttons, checkboxes by clicking on all buttons and see if they are working or not.
