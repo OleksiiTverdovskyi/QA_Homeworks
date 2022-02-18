@@ -1,5 +1,3 @@
-Первое ДЗ 
-до 30.07.2021
 Linux terminal (GitBash) commands
 
 2) Создать папку: mkdir folder_root
